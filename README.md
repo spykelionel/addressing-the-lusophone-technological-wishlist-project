@@ -63,22 +63,100 @@ Based on the provided list at [Wishlist proposals]([url](https://meta-wikimedia-
 Each task should include time for research, development, testing, collaboration with the community, documentation, and iterations based on feedback. The timeline and allocation of hours for each task can be adjusted based on the complexity and priority of the solutions.
 
 ## Expatiated timeline
-| Week | Wish | Tasks | Hours |
-|------|------|-------|-------|
-| Week 1 | **Wish 1: TOOL THAT LISTS PAGES WITH BROKEN LINKS** | - Research existing scripts like Dead Link Finder and analyze their functionality. (4 hrs) <br>- Develop a script/tool that can check broken links in a set of pages on Portuguese Wikipedia, grouped by a hidden category. (8 hrs) | 12 hrs |
-| Week 1 | **Wish 1: TOOL THAT LISTS PAGES WITH BROKEN LINKS** | - Implement functionality to encourage Wikicontest participants to correct broken links. (4 hrs) <br>- Test the tool for accuracy and efficiency. (4 hrs) | 8 hrs |
-| Week 1 | **Wish 1: TOOL THAT LISTS PAGES WITH BROKEN LINKS** | - Document the development process and provide instructions for users. (4 hrs) <br>- Seek feedback from the Wikimedia community and iterate on the tool accordingly. (4 hrs) <br>- Weekly meeting (2 hrs) | 10 hrs |
-| Week 2 | **Wish 2: ACTIVATE INTERNETARCHIVEBOT ON PORTUGUESE WIKIPEDIA** | - Investigate the compatibility issues between Wikipedia templates/modules and pt:User:InternetArchiveBot. (4 hrs) <br>- Analyze the source of the problems and identify possible solutions. (4 hrs) | 8 hrs |
-| Week 2 | **Wish 2: ACTIVATE INTERNETARCHIVEBOT ON PORTUGUESE WIKIPEDIA** | - Modify the bot to address the compatibility issues. (8 hrs) <br>- Test the bot with different scenarios to ensure proper functionality. (4 hrs) | 12 hrs |
-| Week 2 | **Wish 2: ACTIVATE INTERNETARCHIVEBOT ON PORTUGUESE WIKIPEDIA** | - Collaborate with the Portuguese Wikipedia community to gather feedback and address any concerns. (4 hrs) <br>- Document the changes made and provide instructions for future maintenance. (4 hrs) <br>- Weekly meeting (2 hrs) | 10 hrs |
-| Week 3 | **Wish 3: ADAPTATION TO FEMININE OR NEUTRAL GENDER IN TEMPLATES AND PROJECT PAGES** | - Identify templates and project pages that use masculine gender as neutral. (4 hrs) <br>- Propose changes to the templates to include options in the feminine or neutral gender. (4 hrs) | 8 hrs |
-| Week 3 | **Wish 3: ADAPTATION TO FEMININE OR NEUTRAL GENDER IN TEMPLATES AND PROJECT PAGES** | - Implement the necessary modifications to the templates and project pages. (8 hrs) <br>- Test the modified templates to ensure they function correctly with the new options. (4 hrs) | 12 hrs |
-| Week 4 | **Wish 3: ADAPTATION TO FEMININE OR NEUTRAL GENDER IN TEMPLATES AND PROJECT PAGES** | - Collaborate with the Wikimedia community to gather feedback and address any concerns or suggestions. (4 hrs) <br>- Document the changes made and provide guidelines for maintaining inclusive language in templates and project pages. (4 hrs) <br>- Weekly meeting (2 hrs) | 10 hrs |
-| Week 4 | **Wish 4: IMPROVEMENT OF THE SEMI-AUTOMATIC TRANSLATION TOOL, ESPECIALLY INFOBOXES** | - Conduct a thorough analysis of the existing semi-automatic translation tool and its limitations. (4 hrs) <br>- Identify specific issues related to the translation of infoboxes and automatic content filters. (4 hrs) | 8 hrs |
-| Week 5 | **Wish 4: IMPROVEMENT OF THE SEMI-AUTOMATIC TRANSLATION TOOL, ESPECIALLY INFOBOXES** | - Collaborate with the community to gather feedback on the tool's shortcomings and desired improvements. (4 hrs) <br>- Work on enhancing the translation tool, with a focus on addressing infobox translation challenges. (8 hrs) | 12 hrs |
-| Week 5 | **Wish 4: IMPROVEMENT OF THE SEMI-AUTOMATIC TRANSLATION TOOL, ESPECIALLY INFOBOXES** | - Test the updated tool, ensuring improved functionality and usability. (4 hrs) <br>- Communicate the changes to the community, encouraging further feedback and suggestions for enhancement. (4 hrs) <br>- Document the improvements made to the tool and provide guidelines for its effective usage. (4 hrs) <br>- Weekly meeting (2 hrs) | 14 hrs |
-| Week 6 | **Wish 5: IMPROVEMENT OF THE "ADDSUGGESTED IMAGE" TOOL** | - Analyze the current "Add Suggested Image" tool and its limitations. (4 hrs) <br>- Identify ways to enhance the tool to allow for the automatic addition of images to infoboxes. (4 hrs) | 8 hrs |
-| Week 7 | **Wish 7: TEMPLATE FOR ARTICLES THAT ARE PART OF EDUCATION ACTIVITIES** | - Design the banner template for educational activities (2 hrs): <br>- Create a visually appealing and informative banner template. <br> - Determine the layout, colors, and content of the template. <br> - Implement the banner template on Wikipedia (4 hrs). | 6 hrs |
-| Week 8 | **Wish 7: TEMPLATE FOR ARTICLES THAT ARE PART OF EDUCATION ACTIVITIES** | - Collaborate with the community to gather feedback on the tool's shortcomings and desired improvements. (4 hrs) <br>- Work on enhancing the translation tool, with a focus on addressing infobox translation challenges. (8 hrs) <br> - Write the necessary code to integrate the banner template into Wikipedia articles. <br> - Ensure the template is displayed prominently and consistently. <br> - Use HTML, CSS, and JavaScript for frontend implementation. <br> - Define the template's behavior and period of instability (2 hrs) <br> - Determine how the template should behave during the specified period of instability. <br> - Decide on the appropriate message to convey to readers and potential editors. <br> - Programming Language: HTML, CSS, JavaScript (for frontend implementation) (6hrs). | 20 hrs |
-| Week 9 | **Wish 8: ADDING A TEST PAGE TO WIKIQUOTE** | - Assess the infrastructure requirements for test pages on Wikiquote (2 hrs) <br>- Analyze the existing Wikiquote infrastructure and identify the necessary modifications to support test pages. <be> - Determine the technical feasibility and implications. <br> - Develop the test page feature (6 hrs) <br>- Modify the Wikiquote interface to accommodate the addition of test pages. <be> - Ensure the test page feature is accessible and user-friendly (6hrs). <br>- Weekly meeting (2 hrs) | 16 hrs |
-| Week 10 | **Wish 9: UNIFICATION OF WIKIDATA INFOBOX TEMPLATES** | - Identify and analyze existing Wikidata infobox templates (6hrs) <br>- Evaluate the current state of Wikidata infobox templates on Wikipedia. <br> - Identify the similarities and differences between the templates. <br> - Determine the scope and requirements for unification. <br> - Design a unified infobox template (6 hrs) <br> -Develop a comprehensive plan to create a single infobox template. <br> - Design the structure, fields, and functionality of the unified template. <br> - Migrate existing infobox templates to the unified template (8 hrs) <br> - Modify the existing infobox templates to align them with the unified template structure. <br> - Update the code and dependencies accordingly. <br> - Ensure backward compatibility and proper data migration (10hrs) | 30 hrs |
+### **Week 1 (Dec 3-9)**
+
+- [ ] Research existing broken link scripts  
+- [ ] Analyze compatibility issues for InternetArchiveBot
+- [ ] Compile a list of templates using masculine forms
+- [ ] Analyze existing infobox templates
+- [ ] Weekly project meeting
+
+### **Week 2 (Dec 10-16)** 
+
+- [ ] Develop a script to identify broken links
+- [ ] Identify potential solutions for bot conflicts    
+- [ ] Design feminine/neutral template options  
+- [ ] Design a unified infobox template
+- [ ] Weekly project meeting
+
+### **Week 3 (Dec 17-23)**
+
+- [ ] Build an interface to display broken links 
+- [ ] Modify bot code for compatibility
+- [ ] Implement template changes
+- [ ] Weekly project meeting
+
+### **Week 4 (Dec 24-30)**
+
+- [ ] Integrate link correction functionality
+- [ ] Test bot on Portuguese Wikipedia
+- [ ] Gather community feedback on changes
+- [ ] Migrate templates to a unified version 
+- [ ] Weekly project meeting
+
+### **Week 5 (Dec 31-Jan 6)** 
+
+- [ ] Test tool and refine
+- [ ] Improve bot based on feedback
+- [ ] Iterate on template changes
+- [ ] Migrate templates to a unified version
+- [ ] Weekly project meeting
+
+### **Week 6 (Jan 7-13)**
+
+- [ ] Release tool V1 and document 
+- [ ] Document bot updates
+- [ ] Analyze translation tool capabilities
+- [ ] Migrate templates to a unified version
+- [ ] Weekly project meeting
+
+### **Week 7 (Jan 14-20)**
+
+- [ ] Gather user feedback on the tool 
+- [ ] Identify translation tool improvements
+- [ ] Evaluate image insertion tool
+- [ ] Migrate templates to a unified version
+- [ ] Weekly project meeting
+
+### **Week 8 (Jan 21-27)**
+
+- [ ] Refine translation tool
+- [ ] Design enhancements to the image tool
+- [ ] Migrate templates to a unified version
+- [ ] Weekly project meeting
+
+### **Week 9 (Jan 28-Feb 3)**
+
+- [ ] Add infobox translation features 
+- [ ] Develop and implement image tool improvements
+- [ ] Design an educational banner template
+- [ ] Weekly project meeting
+
+### **Week 10 (Feb 4-10)** 
+
+- [ ] Extensively test translation tool
+- [ ] Test and refine image insertion tool  
+- [ ] Implement banner template integration
+- [ ] Evaluate Wikiquote infrastructure
+- [ ] Weekly project meeting
+
+### **Week 11 (Feb 11-17)**
+
+- [ ] Gather feedback on the translation tool
+- [ ] Release improved image insertion tool
+- [ ] Define banner behavior for the instability period
+- [ ] Design test page functionality
+- [ ] Weekly project meeting
+
+### **Week 12 (Feb 18-24)**
+
+- [ ] Iterate on translation tool
+- [ ] Train users on the image insertion tool
+- [ ] Integrate test pages into Wikiquote 
+- [ ] Weekly project meeting
+
+### **Week 13 (Feb 25-Mar 3)** 
+
+- [ ] Document translation tool improvements
+- [ ] Integrate test pages into Wikiquote
+- [ ] Weekly project meeting
