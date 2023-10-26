@@ -6,7 +6,6 @@ Project timeline for addressing-the-lusophone-technological-wishlist-pr
 Addressing the Lusophone technological wishlist proposals
 
 ## Brief summary:
-
 The Lusophone technological wishlist, in the Lusophone Wiki context, is a survey that intends to understand which technological innovations tools, and platforms could be modified to improve user experience, that is, to identify and prioritize the most basic needs of the community of editors, readers, and researchers of the Wikimedia projects in Portuguese, so they have a more productive and pleasant experience.
 
 The list's creation is related to recommendations 2 and 9 of the Wikimedia Movement Strategy 2030, respectively, to Improve User Experience and Innovate in Free Knowledge. The list's objective is to integrate the Portuguese-speaking communities in a strategic and collaborative process that acts towards research and identification of technological bottlenecks in the lusophone projects that prevent or hinder the entry and permanence of new and veteran editors, readers, and researchers of the Wikimedia projects in Portuguese.
@@ -63,100 +62,153 @@ Based on the provided list at [Wishlist proposals]([url](https://meta-wikimedia-
 Each task should include time for research, development, testing, collaboration with the community, documentation, and iterations based on feedback. The timeline and allocation of hours for each task can be adjusted based on the complexity and priority of the solutions.
 
 ## Expatiated timeline
+
 ### **Week 1 (Dec 3-9)**
 
-- [ ] Research existing broken link scripts  
-- [ ] Analyze compatibility issues for InternetArchiveBot
+- [ ] Research existing broken link scripts
+- [ ] Analyze compatibility issues for InternetArchiveBot  
 - [ ] Compile a list of templates using masculine forms
 - [ ] Analyze existing infobox templates
 - [ ] Weekly project meeting
 
+**Deliverables:** Research notes, compatibility analysis, template list, infobox analysis
+
+**Learnings:** Technical research, bot development, templates, infoboxes
+
 ### **Week 2 (Dec 10-16)** 
 
 - [ ] Develop a script to identify broken links
-- [ ] Identify potential solutions for bot conflicts    
-- [ ] Design feminine/neutral template options  
+- [ ] Identify potential solutions for bot conflicts
+- [ ] Design feminine/neutral template options 
 - [ ] Design a unified infobox template
 - [ ] Weekly project meeting
 
+**Deliverables:** Broken link script, compatibility solutions, template designs, infobox template
+
+**Learnings:** Scripting, bot development, design thinking, templates
+
 ### **Week 3 (Dec 17-23)**
 
-- [ ] Build an interface to display broken links 
+- [ ] Build an interface to display broken links
 - [ ] Modify bot code for compatibility
 - [ ] Implement template changes
 - [ ] Weekly project meeting
+
+**Deliverables:** Link interface, updated bot code, new templates
+
+**Learnings:** Interfaces, bot development, implementing changes
 
 ### **Week 4 (Dec 24-30)**
 
 - [ ] Integrate link correction functionality
 - [ ] Test bot on Portuguese Wikipedia
 - [ ] Gather community feedback on changes
-- [ ] Migrate templates to a unified version 
+- [ ] Migrate templates to a unified version
 - [ ] Weekly project meeting
 
-### **Week 5 (Dec 31-Jan 6)** 
+**Deliverables:** Link correction, bot test results, feedback summary, migrated templates
+
+**Learnings:** Integrations, testing, community feedback, migrations 
+
+### **Week 5 (Dec 31-Jan 6)**
 
 - [ ] Test tool and refine
-- [ ] Improve bot based on feedback
+- [ ] Improve bot based on feedback 
 - [ ] Iterate on template changes
 - [ ] Migrate templates to a unified version
 - [ ] Weekly project meeting
 
+**Deliverables:** Testing results, bot updates, template iterations, migrations
+
+**Learnings:** Testing, incorporating feedback, iterating 
+
 ### **Week 6 (Jan 7-13)**
 
-- [ ] Release tool V1 and document 
-- [ ] Document bot updates
+- [ ] Release tool V1 and document
+- [ ] Document bot updates 
 - [ ] Analyze translation tool capabilities
-- [ ] Migrate templates to a unified version
+- [ ] Migrate templates to a unified version 
 - [ ] Weekly project meeting
+
+**Deliverables:** V1 release, documentation, analysis report, migrations
+
+**Learnings:** Release management, documentation, analysis
 
 ### **Week 7 (Jan 14-20)**
 
-- [ ] Gather user feedback on the tool 
+- [ ] Gather user feedback on the tool
 - [ ] Identify translation tool improvements
 - [ ] Evaluate image insertion tool
 - [ ] Migrate templates to a unified version
 - [ ] Weekly project meeting
 
+**Deliverables:** User feedback, translation tool recommendations, image tool evaluation, migrations
+
+**Learnings:** User feedback, product improvements, evaluative thinking
+
 ### **Week 8 (Jan 21-27)**
 
-- [ ] Refine translation tool
+- [ ] Refine translation tool 
 - [ ] Design enhancements to the image tool
 - [ ] Migrate templates to a unified version
 - [ ] Weekly project meeting
 
-### **Week 9 (Jan 28-Feb 3)**
+**Deliverables:** Improved translation tool, design proposal, migrations
 
-- [ ] Add infobox translation features 
-- [ ] Develop and implement image tool improvements
+**Learnings:** Enhancements, design thinking
+
+### **Week 9 (Jan 28-Feb 3)** 
+
+- [ ] Add infobox translation features
+- [ ] Develop and implement image tool improvements 
 - [ ] Design an educational banner template
 - [ ] Weekly project meeting
 
-### **Week 10 (Feb 4-10)** 
+**Deliverables:** Translation features, improved image tool, banner template
+
+**Learnings:** New features, implementation, design
+
+### **Week 10 (Feb 4-10)**
 
 - [ ] Extensively test translation tool
-- [ ] Test and refine image insertion tool  
+- [ ] Test and refine image insertion tool
 - [ ] Implement banner template integration
 - [ ] Evaluate Wikiquote infrastructure
 - [ ] Weekly project meeting
 
-### **Week 11 (Feb 11-17)**
+**Deliverables:** Testing results, refined image tool, integrated banner, Wikiquote evaluation 
+
+**Learnings:** Testing, refinements, integration, infrastructure analysis
+
+### **Week 11 (Feb 11-17)** 
 
 - [ ] Gather feedback on the translation tool
 - [ ] Release improved image insertion tool
-- [ ] Define banner behavior for the instability period
+- [ ] Define banner behavior for the instability period 
 - [ ] Design test page functionality
 - [ ] Weekly project meeting
 
+**Deliverables:** Feedback summary, released image tool, banner specifications, test page design
+
+**Learnings:** Community feedback, release management, specifications 
+
 ### **Week 12 (Feb 18-24)**
 
-- [ ] Iterate on translation tool
+- [ ] Iterate on translation tool  
 - [ ] Train users on the image insertion tool
-- [ ] Integrate test pages into Wikiquote 
+- [ ] Integrate test pages into Wikiquote
 - [ ] Weekly project meeting
 
-### **Week 13 (Feb 25-Mar 3)** 
+**Deliverables:** Translation tool updates, training materials, test page integration
+
+**Learnings:** Iterative development, training, integration
+
+### **Week 13 (Feb 25-Mar 3)**
 
 - [ ] Document translation tool improvements
 - [ ] Integrate test pages into Wikiquote
 - [ ] Weekly project meeting
+
+**Deliverables:** Translation tool documentation, test page integration
+
+**Learnings:** Documentation, integration
